@@ -8,6 +8,6 @@ namespace Entidad
 {
     public class Class1
     {
-        //Primera Prueba
+        //Primera Prueba 2
     }
 }
